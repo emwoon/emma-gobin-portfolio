@@ -10,6 +10,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: VPS_HOST
 
     steps:
       # (optional) pull the repo locally – not required for the remote command
