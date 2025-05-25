@@ -1042,7 +1042,9 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider img {
-  width: 100%;
+  /*width: 60%;*/
+  max-height: 600px;
+  position: center;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
