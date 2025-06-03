@@ -454,6 +454,11 @@ body.dark-mode {
   font-size: 22px;
 }
 
+#hero p {
+  color: #392E2C;
+  position: center;
+}
+
 #hero .btn-about {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
