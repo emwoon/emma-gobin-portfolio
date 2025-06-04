@@ -1131,12 +1131,6 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-#contact {
-  width: 100%;
-  /*background-color: #ffffff;*/
-  background: url("../img/wallpaper_page.png") top right;
-  background-size: cover;
-}
 
 .contact .info {
   width: 100%;
