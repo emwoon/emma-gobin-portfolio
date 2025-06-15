@@ -1271,6 +1271,36 @@ section {
   }
 }
 
+.consent-container {
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 24px 32px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      text-align: center;
+    }
+
+    .consent-container label {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .consent-container input[type="checkbox"] {
+      margin-right: 8px;
+      transform: scale(1.2);
+      vertical-align: middle;
+    }
+
+    .consent-container a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    .consent-container a:hover {
+      text-decoration: underline;
+    }
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
